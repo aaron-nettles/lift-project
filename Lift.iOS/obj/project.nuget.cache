@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sinsn5a7QjK5PPsSyeZ7Pwnes4/cVr+4U+j3HQmEpqJKgOXRBiK3OJ8moFhR8MLkQxbh6+nux6NcfmMidKsUQg==",
+  "success": true,
+  "projectFilePath": "/Users/aaronnettles/Projects/Lift/Lift/Lift.iOS/Lift.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/aaronnettles/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/aaronnettles/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/aaronnettles/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
